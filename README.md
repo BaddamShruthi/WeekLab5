@@ -8,7 +8,7 @@ This simple Django app returns a "Hello World!" message in JSON and HTML format.
 
 1. Clone the repository:
 
-git clone https://github.com/BaddamShruthi/WeekLab5/tree/main cd helloworld_project
+git clone https://github.com/BaddamShruthi/WeekLab5 cd helloworld_project
 
 
 2. Install dependencies:
